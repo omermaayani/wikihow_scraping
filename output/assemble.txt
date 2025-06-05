@@ -1,0 +1,48 @@
+index: 0
+Title: How to Assemble a Senbazuru
+Link: https://www.wikihow.com/Assemble-a-Senbazuru
+
+index: 1
+Title: How to Assemble a Crib
+Link: https://www.wikihow.com/Assemble-a-Crib
+
+index: 2
+Title: How to Assemble a Bicycle
+Link: https://www.wikihow.com/Assemble-a-Bicycle
+
+index: 3
+Title: How to Assemble a Tent
+Link: https://www.wikihow.com/Assemble-a-Tent
+
+index: 4
+Title: How to Assemble a Clarinet
+Link: https://www.wikihow.com/Assemble-a-Clarinet
+
+index: 5
+Title: How to Assemble a Saxophone
+Link: https://www.wikihow.com/Assemble-a-Saxophone
+
+index: 6
+Title: How to Assemble a Flute
+Link: https://www.wikihow.com/Assemble-a-Flute
+
+index: 7
+Title: How to Assemble a Swiffer WetJet
+Link: https://www.wikihow.com/Assemble-a-Swiffer-WetJet
+
+index: 8
+Title: How to Assemble Jigsaw Puzzles
+Link: https://www.wikihow.com/Assemble-Jigsaw-Puzzles
+
+index: 10
+Title: How to Assemble a BMX Bike
+Link: https://www.wikihow.com/Assemble-a-BMX-Bike
+
+index: 11
+Title: How to Assemble a Plasmacar Toy
+Link: https://www.wikihow.com/Assemble-a-Plasmacar-Toy
+
+index: 12
+Title: How to Assemble Weather Pack Connectors
+Link: https://www.wikihow.com/Assemble-Weather-Pack-Connectors
+
